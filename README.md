@@ -62,4 +62,4 @@ r: raio
 
 Equação de 2° Grau 
 
-ax²+bx+e=o
+$ax²+bx+e=o$
