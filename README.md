@@ -63,3 +63,7 @@ r: raio
 Equação de 2° Grau 
 
 $ax²+bx+e=o$
+
+Fórmula de Bhaskara 
+
+$x=\frac {(b.b)-4}a.c{2}$
