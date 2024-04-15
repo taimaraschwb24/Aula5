@@ -19,10 +19,14 @@ L: lado
 
 LOSANGULO
 
-$A=\fraz{D.d}{2}$
+$A=\frac{D.d}{2}$
 
 $A$: área 
 
 D: diagonal maior
 
 d: diagonal menor
+
+RETÂNGULO 
+
+$A=b.h$
