@@ -36,3 +36,15 @@ $A$: área
 b: base
 
 h: altura 
+
+TRAPÉZIO 
+
+$A=\frac{(B.b).h}{2}$
+
+$A$: área 
+
+B: base maior
+
+b: base menor 
+
+h: altura 
