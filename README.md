@@ -58,3 +58,8 @@ $A$: área
 $\Pi$: constante Pi(3.14)
 
 r: raio 
+
+
+Equação de 2° Grau 
+
+ax²+bx+e=o
