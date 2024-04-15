@@ -2,7 +2,7 @@ TRIÂNGULO
 
 $A=\frac{b.h}{2}$
 
-A: área 
+$A$: área 
 
 b: base
 
@@ -12,6 +12,6 @@ QUADRADO
 
 $A=L^{2}$
 
-A: área 
+$A$: área 
 
 L: lado
