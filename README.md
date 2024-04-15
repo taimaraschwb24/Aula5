@@ -48,3 +48,13 @@ B: base maior
 b: base menor 
 
 h: altura 
+
+CÍRCULO 
+
+$A=\Pi.r²$
+
+$A$: área 
+
+$\Pi$: constante Pi(3.14)
+
+r: raio 
