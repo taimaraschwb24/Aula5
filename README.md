@@ -9,3 +9,8 @@ b: base
 h: altura 
 
 
+$A=L^{2}$
+
+A: área 
+
+L: lado
