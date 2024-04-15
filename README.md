@@ -15,3 +15,14 @@ $A=L^{2}$
 $A$: área 
 
 L: lado
+
+
+LOSANGULO
+
+$A=\fraz{D.d}{2}$
+
+$A$: área 
+
+D: diagonal maior
+
+d: diagonal menor
