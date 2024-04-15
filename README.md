@@ -30,3 +30,9 @@ d: diagonal menor
 RETÂNGULO 
 
 $A=b.h$
+
+$A$: área 
+
+b: base
+
+h: altura 
