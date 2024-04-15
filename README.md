@@ -8,6 +8,7 @@ b: base
 
 h: altura 
 
+QUADRADO 
 
 $A=L^{2}$
 
